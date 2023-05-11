@@ -1,7 +1,7 @@
 {
-  "name": "@shoppe/app-footer",
+  "name": "@shoppe/app-home",
   "scripts": {
-    "start": "webpack serve --port 8110",
+    "start": "webpack serve --port 8000",
     "start:standalone": "webpack serve --env standalone",
     "build": "concurrently yarn:build:*",
     "build:webpack": "webpack --mode=production",
@@ -60,5 +60,5 @@
     "@types/react": "^17.0.19",
     "@types/react-dom": "^17.0.9"
   },
-  "types": "dist/shoppe-app-footer.d.ts"
+  "types": "dist/shoppe-app-home.d.ts"
 }
