@@ -1,7 +1,6 @@
 {
   "name": "mfe-shoppe",
   "version": "1.0.0",
-  "main": "index.js",
   "private": true,
   "repository": "https://github.com/andrejr971/mfe-shoppe.git",
   "author": "André Junior <andrejunior179@gmail.com>",
