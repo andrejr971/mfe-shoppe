@@ -4,7 +4,7 @@
     "jsx": "react-jsx",
     "declarationDir": "dist"
   },
-  "files": ["src/shoppe-util-state.tsx"],
+  "files": ["src/shoppe-util-state.ts"],
   "include": ["src/**/*"],
   "exclude": ["src/**/*.test*"]
 }
