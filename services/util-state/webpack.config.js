@@ -9,7 +9,5 @@ module.exports = (webpackConfigEnv, argv) => {
     argv
   })
 
-  return merge(defaultConfig, {
-    externals: ['zustand', 'zustand/middleware']
-  })
+  return merge(defaultConfig)
 }
